@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "96e5c049_45f8ace2",
+        "filename": "second_commit.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1000002
+      },
+      "writtenOn": "2019-01-30T13:36:34Z",
+      "side": 1,
+      "message": "please change to after review",
+      "range": {
+        "startLine": 1,
+        "startChar": 0,
+        "endLine": 1,
+        "endChar": 17
+      },
+      "revId": "2856be2fcd4e23acc3004755f18556defae1cff3",
+      "serverId": "bb964315-5f22-4778-9159-6d49a591e19d",
+      "unresolved": true
+    }
+  ]
+}
