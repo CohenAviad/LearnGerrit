@@ -1,0 +1,27 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "a2989c93_a03a9d84",
+        "filename": "gui_rules.txt",
+        "patchSetId": 1
+      },
+      "lineNbr": 1,
+      "author": {
+        "id": 1000009
+      },
+      "writtenOn": "2019-02-18T12:56:58Z",
+      "side": 1,
+      "message": "No good!",
+      "range": {
+        "startLine": 1,
+        "startChar": 0,
+        "endLine": 1,
+        "endChar": 22
+      },
+      "revId": "e3c5eeff51e1d2877fcb739de6bbd4ffd6e8e211",
+      "serverId": "bb964315-5f22-4778-9159-6d49a591e19d",
+      "unresolved": true
+    }
+  ]
+}
