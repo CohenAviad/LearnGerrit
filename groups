@@ -1,4 +1,5 @@
-# UUID                	Group Name
+# UUID                 	Group Name
 #
-global:Anonymous-Users	Anonymous Users
-user:CohenAviad       	user/Aviad Cohen (CohenAviad)
+global:Anonymous-Users 	Anonymous Users
+global:Registered-Users	Registered Users
+user:CohenAviad        	user/Aviad Cohen (CohenAviad)
