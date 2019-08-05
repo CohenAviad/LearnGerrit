@@ -1,2 +1,2 @@
-printf(%s, "hi");  //new comment222
+printf(%d, 123);  //now printing int
 
