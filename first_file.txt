@@ -1,1 +1,2 @@
-This is file which entered in the first commit // yaron 1st commit //. bla bl
+This is file which entered in the first commit.
+Wow.
