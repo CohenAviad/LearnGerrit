@@ -1,21 +1,39 @@
 ---
-name: Custom issue template
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
+name: VPSA Issue
+about: For general VPSA issues
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
-**Expected behavior**
-A clear and concise description of what you expected to happen.
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+Please ensure you have read through https://zadara.atlassian.net/wiki/spaces/ZO/pages/335872079/How+to+Create+a+Proper+GitHub+Issue first.
+
+### General Info
+
+**Customer Name**:  
+  
+**Cloud**:  
+**Cloud Version**:  
+  
+**VPSA Name**:  
+**VPSA ID**:  
+**VPSA Engine**:  
+**VPSA Version**:   
+  
+**Storage Protocols**: (iSCSI\iSER\FC\SMB\NFS\S3\SWIFT)  
+**Impacted Volumes**:  
+
+**ZSnaps**:  
+
+**Client Issue Start Time and Time Zone**:    
+**Client Logs**:    
+
+
+-----
+### Issue Summary
+
+brief description of issue
+
+-----
+### Issue Details & Timeline
+
+full details and timeline of issue including log entries, screenshots, etc.
+
