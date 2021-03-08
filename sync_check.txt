@@ -1,4 +1,3 @@
 Trying to sync Gerrit again! And Again!
-Now should work - now!
 
 This is from master branch...
