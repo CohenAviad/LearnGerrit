@@ -3,3 +3,7 @@ for i in range(10):
         print(i)
     else:
         print(i+1)
+
+print("My other commit")
+
+
