@@ -11,6 +11,6 @@ git commit --am	//	this pushed to the last commit
 // if the reviewer approved the commit, he will comment (+2) in the gerrit
 //	this will push the change in the github
 
-//	if the commit is total loss, and we don`t want it, we can abandon - from the website
+//	if the commit // edit is total loss, and we don`t want it, we can abandon - from the website
 //	abandon will remove it from the server, but not from the computer, thus we need to refetch
 git pull --rebase
