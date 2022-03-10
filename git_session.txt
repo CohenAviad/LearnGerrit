@@ -1,2 +1,2 @@
 Hello world!
-Hello new world!
+Hello conflict new world!
