@@ -1,2 +1,4 @@
 Hello world!
-Hello new world!
+Hello world! again, this should now be OK!
+
+how do you do merge conflict ?
