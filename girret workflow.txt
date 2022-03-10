@@ -1,0 +1,16 @@
+git commit -m "commit note"
+git push	//	pushes to gerrit, not to git - this sends notification to reviewer
+
+// the reviewer reviews the commit, and comment on it
+// we can see the comments in the mail and in the gerrit website
+//	http://gerrit.zadara-qa.com:8080/dashboard/self
+
+// fix the reviewe, then :
+git commit --am	//	this pushed to the last commit
+
+// if the reviewer approved the commit, he will comment (+2) in the gerrit
+//	this will push the change in the github
+
+//	if the commit is total loss, and we don`t want it, we can abandon - from the website
+//	abandon will remove it from the server, but not from the computer, thus we need to refetch
+git pull --rebase
